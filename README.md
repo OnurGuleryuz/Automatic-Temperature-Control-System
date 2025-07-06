@@ -1,2 +1,10 @@
 # Automatic-AirConditioner
-In this project, I aimed to make a temperature control system using the MSP430G2553 microprocessor.
+The aim of this project is to control the temperature in an enclosed environment.
+Heating is achieved using a Ptc Heater, while cooling is performed with a Peltier module. Additionally, a fan is used to circulate the air in the environment.
+Relays are used to drive both the heater and the cooler.
+
+The current and target temperatures are displayed on an LCD screen. The target temperature can be increased or decreased using push buttons.
+
+The system continuously compares the current temperature with the target temperature and activates either the heating or cooling process accordingly. Once the target temperature is reached, the system stops itself.
+
+There is also a blinking LED to indicate that the system is operating, and a reset button is included to restart the system. A potentiometer is used to adjust the contrast of the LCD screen.
