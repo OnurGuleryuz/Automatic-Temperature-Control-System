@@ -9,7 +9,6 @@ The system continuously compares the current temperature with the target tempera
 
 There is also a blinking LED to indicate that the system is operating, and a reset button is included to restart the system. A potentiometer is used to adjust the contrast of the LCD screen.
 
-Components
 MSP430G2553 MCU,
 Lcd Screen,
 Push Button,
@@ -24,4 +23,4 @@ LM35DZ Temperature Sensor,
 LM317T Regulator,
 L7805CV Regulator,
 Connector 1x2,
-12V 5A Adaptor (For Power Supply),
+12V 5A Adaptor (For Power Supply)
