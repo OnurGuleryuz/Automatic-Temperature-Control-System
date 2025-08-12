@@ -1,4 +1,4 @@
-# Temperature-Control-System
+# Automatic-Temperature-Control-System
 The aim of this project is to control the temperature in an enclosed environment.
 Heating is achieved using a Ptc Heater, while cooling is performed with a Peltier module. Additionally, a fan is used to circulate the air in the environment.
 Relays are used to drive both the heater and the cooler.
